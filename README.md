@@ -22,7 +22,7 @@ uname -m
 #### Clone the repository:
 
 ```bash
-git clone https://github.com/DelfinIbnKadafi/pawncc-v3.10.3-termux-armv7.git
+git clone https://github.com/DelfinIbnKadafi/pawncc-v3.10.10-termux-armv7.git
 cd pawncc-termux-armv7
 ```
 
@@ -80,7 +80,7 @@ pawncc gamemode.pwn -i./include -D./gamemodes -;+ -(+ -d3
 
 #### Based on:
 
-Pawn Compiler 3.10.3
+Pawn Compiler 3.10.10
 
 ## Upstream
 
