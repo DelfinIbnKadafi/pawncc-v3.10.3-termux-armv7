@@ -23,7 +23,7 @@ uname -m
 
 ```bash
 git clone https://github.com/DelfinIbnKadafi/pawncc-v3.10.10-termux-armv7.git
-cd pawncc-termux-armv7
+cd pawncc-v3.10.10-termux-armv7
 ```
 
 #### Run the installer:
